@@ -1,1 +1,1 @@
-https://app.netlify.com/sites/recetas-2cc7b2/overview
+https://recetas-2cc7b2.netlify.com/
